@@ -1,0 +1,16 @@
+1. User desired file path for certain extension types
+2. How to help user set cronjon to automate the desktop cleanup 
+3. Create installation script 
+	- This script has no dependancies 
+	- This script only needs user input of file path names to work 
+4. Clean up github repo so only the essentials are there
+
+---------------------------------
+Pseudo Code
+
+if install script complete then run code 
+if incomplete ask user to run code (code includes questions about file paths)
+code 
+---------------------------------
+
+
